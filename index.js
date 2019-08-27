@@ -23,7 +23,7 @@ const options = {
     borderColor : 'red',
     backgroundColor : 'black',
     padding : 2,
-    margin : 5,
+    margin : 2,
     borderStyle : {
         topLeft: '█',
         topRight: '█',
@@ -33,8 +33,9 @@ const options = {
         vertical: '█'
     },
     align : 'center',
+    float : 'center',
 };
 clear();
 
 // Output :
-console.log(boxen(allData , options))
+console.log(boxen(allData , options));
