@@ -13,10 +13,11 @@ const data ={
     github : chalk.blue('https://github.com/' + chalk.yellow('ValdenBE')),
     linkedin : chalk.blue('www.linkedin.com/in/' + chalk.yellow('ValdenBE')),
     npm : chalk.blue('https://www.npmjs.com/' + chalk.yellow('~valdenbe')),
-}
+    card : chalk.white('- ') + chalk.blue('My Vcard : ' + chalk.yellow('npx valden')) + chalk.white(' -'),
+} 
 const newline = '\n'
-const title = chalk.yellow(`${data.name } ♦ ${data.pseudo}`)
-const allData = title + newline + newline +`${data.status}` + newline + newline + `${data.github}` + newline + `${data.linkedin}` + newline + `${data.npm}`
+const title = chalk.yellow(`${data.name }`+ chalk.white(' ♦ ') + `${data.pseudo}`)
+const allData = title + newline + newline +`${data.status}` + newline + newline + `${data.github}` + newline + `${data.linkedin}` + newline + `${data.npm}` + newline + newline + `${data.card}`
 //Options for Boxen package
 const options = {
     borderColor : 'red',
