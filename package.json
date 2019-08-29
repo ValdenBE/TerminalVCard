@@ -26,6 +26,7 @@
     "clear": "^0.1.0",
     "got": "^9.6.0",
     "npm": "^6.11.2",
+    "readme-md-generator": "^0.6.2",
     "terminal-image": "^0.2.0"
   }
 }
