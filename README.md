@@ -1,21 +1,21 @@
 <h1 align="center">Welcome to Valden VCard 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.4-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.6-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/ValdenBE/TerminalVCard#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://github.com/ValdenBE/TerminalVCard/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="http://unlicense.org">
-    <img alt="License: Unlicense" src="https://img.shields.io/badge/License-Unlicense-yellow.svg" target="_blank" />
+  <a href="https://github.com/ValdenBE/TerminalVCard/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/V_A_L_D_E_N">
     <img alt="Twitter: V_A_L_D_E_N" src="https://img.shields.io/twitter/follow/V_A_L_D_E_N.svg?style=social" target="_blank" />
   </a>
 </p>
 
-> A small Vcard made for a Becode project
+> A small VCard for a Becode Project
 
 ### 🏠 [Homepage](https://github.com/ValdenBE/TerminalVCard#readme)
 
@@ -49,6 +49,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Valden](https://github.com/ValdenBE).<br />
-This project is [Unlicense](http://unlicense.org) licensed.
+This project is [MIT](https://github.com/ValdenBE/TerminalVCard/blob/master/LICENSE) licensed.
 
 ***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
