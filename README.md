@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Valden Vcard 👋</h1>
+<h1 align="center">Welcome to Valden VCard 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.5-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/ValdenBE/TerminalVCard#readme">
@@ -11,11 +11,11 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/V_A_L_D_E_N">
-    <img alt="Twitter: V_A_L_D_E_N" src="https://img.shields.io/twitter/follow/V_A_L_D_E_N.svg" target="_blank" />
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/V_A_L_D_E_N.svg?style=social" target="_blank" />
   </a>
 </p>
 
-> A small VCard for a project.
+> A VCard for Becode project
 
 ### 🏠 [Homepage](https://github.com/ValdenBE/TerminalVCard#readme)
 
@@ -42,7 +42,7 @@ npm run test
 👤 **Valden**
 
 * Twitter: [@V_A_L_D_E_N](https://twitter.com/V_A_L_D_E_N)
-* Github: [@ValdenBE](https://github.com/ValdenBE)
+* Github: [@valdenbe](https://github.com/valdenbe)
 
 ## 🤝 Contributing
 
@@ -52,9 +52,13 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+<a href="https://www.patreon.com/valden">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
 ## 📝 License
 
-Copyright © 2019 [Valden](https://github.com/ValdenBE).<br />
+Copyright © 2019 [Valden](https://github.com/valdenbe).<br />
 This project is [MIT](https://github.com/ValdenBE/TerminalVCard/blob/master/LICENSE) licensed.
 
 ***
